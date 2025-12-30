@@ -1,2 +1,2 @@
 # AdobeXd
-UI UX Designs with Adobe XD which covers prototyping and wireframes.
+UI/UX design prototypes, wireframes, and interactive mockups created in Adobe XD for certification training.
